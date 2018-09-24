@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+      <class name="Entidades.TestJugador">
+        <test-method status="PASS" signature="setUpBeforeSuite()[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="setUpBeforeSuite" is-config="true" duration-ms="16" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeSuite -->
+        <test-method status="PASS" signature="newJugador()[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="newJugador" duration-ms="0" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newJugador -->
+        <test-method status="PASS" signature="setNombreConDP(int, Entidades.Jugador)[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="setNombreConDP" duration-ms="0" started-at="2018-09-21T00:05:33Z" data-provider="datosNombre" finished-at="2018-09-21T00:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jugador [dni=0, nombre=tomas, apellido=null, edad=0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setNombreConDP -->
+        <test-method status="PASS" signature="setDNI()[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="setDNI" duration-ms="0" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDNI -->
+        <test-method status="PASS" signature="setNombreConDP(int, Entidades.Jugador)[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="setNombreConDP" duration-ms="0" started-at="2018-09-21T00:05:33Z" data-provider="datosNombre" finished-at="2018-09-21T00:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jugador [dni=0, nombre=lorena, apellido=null, edad=0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setNombreConDP -->
+        <test-method status="PASS" signature="setNombreConDP(int, Entidades.Jugador)[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="setNombreConDP" duration-ms="0" started-at="2018-09-21T00:05:33Z" data-provider="datosNombre" finished-at="2018-09-21T00:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jugador [dni=0, nombre=julian, apellido=null, edad=0]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setNombreConDP -->
+        <test-method status="PASS" signature="getDNI()[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="getDNI" is-config="true" duration-ms="0" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDNI -->
+        <test-method status="PASS" signature="setNombre()[pri:0, instance:Entidades.TestJugador@1aeed2f]" name="setNombre" duration-ms="0" started-at="2018-09-21T00:05:33Z" finished-at="2018-09-21T00:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setNombre -->
+      </class> <!-- Entidades.TestJugador -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
